@@ -1,0 +1,22 @@
+2024-02-18 15:10:22 -  - exec CUpdateClient::GetUpdatesList
+2024-02-18 15:10:22 -  - exec CUpdateClient::CollectRequestData
+2024-02-18 15:10:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bx-task&CHHB=bx-task%3A8888&CSAB=%3A%3A1&SUID=gpjkg4jcuzp53gpe6t9rptkczynoi52y&CANGZIP=Y&CLIENT_PHPVER=8.2.0&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_ui=22.1600.0&bitm_landing=23.600.150&bitm_perfmon=21.0.0&bitm_highloadblock=22.200.0&bitm_translate=23.200.0&bitm_location=23.0.0&bitm_socialservices=22.200.400&bitm_clouds=23.0.0&bitm_search=22.100.0&bitm_iblock=23.100.0&bitm_messageservice=23.0.0&bitm_bitrixcloud=22.100.0&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_rest=23.100.0&bitm_fileman=22.300.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-02-18 15:10:22 -  - exec CUpdateClient::GetHTTPPage
+2024-02-18 15:10:22 -  - TIME GetUpdatesList(request) 0.33 sec
+2024-02-18 15:10:22 -  - exec CUpdateClient::ParseServerData
+2024-02-18 15:10:22 -  - exec CUpdateClient::executeCounters
+2024-02-18 15:10:22 -  - exec CUpdateClient::CollectRequestData
+2024-02-18 15:10:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bx-task&CHHB=bx-task%3A8888&CSAB=%3A%3A1&SUID=gpjkg4jcuzp53gpe6t9rptkczynoi52y&CANGZIP=Y&CLIENT_PHPVER=8.2.0&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_ui=22.1600.0&bitm_landing=23.600.150&bitm_perfmon=21.0.0&bitm_highloadblock=22.200.0&bitm_translate=23.200.0&bitm_location=23.0.0&bitm_socialservices=22.200.400&bitm_clouds=23.0.0&bitm_search=22.100.0&bitm_iblock=23.100.0&bitm_messageservice=23.0.0&bitm_bitrixcloud=22.100.0&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_rest=23.100.0&bitm_fileman=22.300.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2024-02-18 15:10:22 -  - exec CUpdateClient::GetHTTPPage
+2024-02-18 15:10:23 -  - TIME executeCounters 0.29 sec
+2024-02-18 15:15:26 -  - exec CUpdateClient::GetUpdatesList
+2024-02-18 15:15:26 -  - exec CUpdateClient::CollectRequestData
+2024-02-18 15:15:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bx-task&CHHB=bx-task%3A8888&CSAB=%3A%3A1&SUID=gpjkg4jcuzp53gpe6t9rptkczynoi52y&CANGZIP=Y&CLIENT_PHPVER=8.2.0&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_ui=22.1600.0&bitm_landing=23.600.150&bitm_perfmon=21.0.0&bitm_highloadblock=22.200.0&bitm_translate=23.200.0&bitm_location=23.0.0&bitm_socialservices=22.200.400&bitm_clouds=23.0.0&bitm_search=22.100.0&bitm_iblock=23.100.0&bitm_messageservice=23.0.0&bitm_bitrixcloud=22.100.0&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_rest=23.100.0&bitm_fileman=22.300.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-02-18 15:15:26 -  - exec CUpdateClient::GetHTTPPage
+2024-02-18 15:15:26 -  - TIME GetUpdatesList(request) 0.209 sec
+2024-02-18 15:15:26 -  - exec CUpdateClient::ParseServerData
+2024-02-18 15:15:26 -  - exec CUpdateClient::executeCounters
+2024-02-18 15:15:26 -  - exec CUpdateClient::CollectRequestData
+2024-02-18 15:15:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bx-task&CHHB=bx-task%3A8888&CSAB=%3A%3A1&SUID=gpjkg4jcuzp53gpe6t9rptkczynoi52y&CANGZIP=Y&CLIENT_PHPVER=8.2.0&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_ui=22.1600.0&bitm_landing=23.600.150&bitm_perfmon=21.0.0&bitm_highloadblock=22.200.0&bitm_translate=23.200.0&bitm_location=23.0.0&bitm_socialservices=22.200.400&bitm_clouds=23.0.0&bitm_search=22.100.0&bitm_iblock=23.100.0&bitm_messageservice=23.0.0&bitm_bitrixcloud=22.100.0&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_rest=23.100.0&bitm_fileman=22.300.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2024-02-18 15:15:26 -  - exec CUpdateClient::GetHTTPPage
+2024-02-18 15:15:26 -  - TIME executeCounters 0.173 sec
